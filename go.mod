@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/alecthomas/kingpin v2.2.6+incompatible
 	github.com/go-logr/logr v1.2.2
-	github.com/go-openapi/errors v0.19.6
+	github.com/go-openapi/errors v0.20.3
 	github.com/go-openapi/runtime v0.19.16
 	github.com/go-openapi/strfmt v0.19.5
 	github.com/go-openapi/swag v0.19.14
@@ -108,7 +108,7 @@ require (
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 	k8s.io/apiextensions-apiserver v0.23.2 // indirect
 	k8s.io/component-base v0.23.2 // indirect
 	k8s.io/klog/v2 v2.40.1 // indirect
